@@ -15,4 +15,4 @@ Proyectos hechos a partir de lenguajes de programacion funcional
 
 4.Modelo de programacion logica
 
-**derechos reservados**
+**Todos los derechos reservados**
